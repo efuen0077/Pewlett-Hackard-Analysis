@@ -1,6 +1,10 @@
 # Pewlett-Hackard-Analysis
 
 ## Challenge
+***complete code
+
+[final_code.sql.zip](https://github.com/efuen0077/Pewlett-Hackard-Analysis/files/4537047/final_code.sql.zip)
+
 ### Data
 #### Table 1
 
