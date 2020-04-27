@@ -4,11 +4,11 @@
 ### Data
 #### Table 1
 
-
+[retiring_emp_by_title.csv.zip](https://github.com/efuen0077/Pewlett-Hackard-Analysis/files/4536852/retiring_emp_by_title.csv.zip)
 
 #### Table 2
 
-
+[eligibility_info.csv.zip](https://github.com/efuen0077/Pewlett-Hackard-Analysis/files/4536851/eligibility_info.csv.zip)
 
 ### Technical Analysis
 Bobby’s manager would like to know how many roles will need to be filled as the “silver tsunami” begins to make an impact. They would also like to identify retirement-ready employees who qualify to mentor the next generation of Pewlett Hackard employees.
